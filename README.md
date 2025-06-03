@@ -1,1 +1,2 @@
 # CharleneCaramoan_2-1 GitHub Project
+# hello po maam, i submitted this assignment late po because moodle did not notify in my broswer. for the oop final system, i made the repo for my group but i just watched yt tutorials about repo creation. rest assured that i am familiar with the github features since i was already using it on another course. thank you ma'am for consideration and apologies for the delayed submission 
